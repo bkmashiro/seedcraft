@@ -21,7 +21,7 @@ Seedcraft fills this gap:
 
 ```bash
 # Clone and use directly — no pip install needed
-git clone <repo-url>
+git clone https://github.com/bkmashiro/seedcraft
 cd seedcraft
 
 # Or install in development mode
